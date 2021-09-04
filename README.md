@@ -17,4 +17,4 @@
 
 <img src="img/img1.png" width="600"> <br/>
 <img src="img/img2.png" width="600"> <br/>
-<img src="img/img3.png" width="500"> <br/>
+<img src="img/img3.png" width="600"> <br/>
